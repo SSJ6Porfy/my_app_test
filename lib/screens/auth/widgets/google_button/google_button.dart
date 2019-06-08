@@ -6,8 +6,8 @@ class GoogleButton extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return new AppButton(
-      buttonName: "Google",
-      onPressed: null,
+      buttonName: "Login With Google",
+      onPressed: () {},
       buttonTextStyle: null
     );
   }

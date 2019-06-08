@@ -1,5 +1,5 @@
-import 'routes.dart';
+import 'navigation.dart';
 
 void main () {
-  new Routes();
+  new NavigationApp();
 }
